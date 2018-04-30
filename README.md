@@ -1,2 +1,3 @@
 # checkIn
-iOS app for CSSA events check-in
+An IOS application for NYUCSSA events check in. 
+Main functionalities include CreateEvent, AttendEvent, and ViewData.
